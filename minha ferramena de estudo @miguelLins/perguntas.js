@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Historia',
     'Qual foi os anos de começo da primeira e da segunda guerra mundial?',
-    'A capital da França é Paris'
+    ''O começo da primeira guerra mundial foi em 28 de julho de 1914, enquanto a da segunda guerra foi em 1 de setembro de 1939'
 )
 
 criaCartao(
